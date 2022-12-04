@@ -7,6 +7,7 @@ import { LoginComponent } from './login/login.component';
 import { ScanComponent } from './scan/scan.component';
 import { MenuComponent } from './menu/menu.component';
 import { ViewerComponent } from './viewer/viewer.component';
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { ViewerComponent } from './viewer/viewer.component';
     LoginComponent,
     ScanComponent,
     MenuComponent,
-    ViewerComponent
+    ViewerComponent,
+    PageNotFoundComponent
   ],
   imports: [
     BrowserModule,
