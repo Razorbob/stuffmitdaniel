@@ -19,9 +19,12 @@
     "@angular/platform-browser-dynamic": "^14.2.0",
     "@angular/router": "^14.2.0",
     "bulma": "^0.9.4",
+    "camera-controls": "^1.37.4",
     "daisyui": "^2.42.1",
+    "lesca-threejs-orbitcontrols": "^1.1.2",
     "rxjs": "~7.5.0",
     "three": "^0.147.0",
+    "three-controls": "^1.0.1",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
